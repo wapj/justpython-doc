@@ -2,12 +2,12 @@
 module.exports = {
   title: "파이썬 그냥 재미로",
   tagline: "세상에서 가장 친절한 파이썬 강의",
-  url: "https://your-docusaurus-test-site.com",
-  baseUrl: "/",
+  url: "https://blog.gyus.me/justpython-doc/",
+  baseUrl: "/justpython-doc/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
-  organizationName: "wapj2000", // Usually your GitHub org/user name.
+  organizationName: "wapj", // Usually your GitHub org/user name.
   projectName: "justpython-doc", // Usually your repo name.
   themeConfig: {
     navbar: {
@@ -25,7 +25,7 @@ module.exports = {
         },
         // { to: "/blog", label: "Blog", position: "left" },
         {
-          href: "https://github.com/facebook/docusaurus",
+          href: "https://github.com/wapj/justpython-doc",
           label: "GitHub",
           position: "right",
         },
