@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Create a Document
+# 변수와 주석
 
 Documents are **groups of pages** connected through:
 

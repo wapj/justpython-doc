@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# 파이썬 그냥 재미로 소개
+# 🚩 파이썬 그냥 재미로 소개
 
 프로그래밍을 배울 때 가장 좋은 방법은 무엇일까요?
 그것은 프로그램을 직접 만들어 보는 것입니다.
@@ -12,19 +12,15 @@ sidebar_position: 1
 
 ![python](./assets/image/intro/python.jpg)
 
-> 이미지 출처 https://unsplash.com/photos/D9Zow2REm8U
-
 파이썬은 교육용 언어로 설계되었기 때문에 코드가 간결하고 이해하기도 쉽습니다.
 프로그래밍을 공부하기에 너무나 좋은 언어이지요.
 
 이 때문에 파이썬 그냥 재미로 강의에서는 파이썬으로 프로그램을 알려드립니다.
 파이썬을 설치하는 법부터 실제로 써먹을 수 있는 프로그램을 만들 수 있을 때까지 안내해드립니다.
 
-## 파이썬을 배우면 뭐가 좋은가요?
+## 📚 파이썬을 배우면 뭐가 좋은가요?
 
 ![python](./assets/image/intro/4th_revolution.jpg)
-
-> 이미지 출처 https://unsplash.com/photos/1K6IQsQbizI
 
 `제 4차 산업혁명`이라는 말들을 들어보셨을겁니다. 4차 산업혁명은 다름아닌 데이터의 혁명입니다. 데이터를 잘 다루기 위해서는 컴퓨터에게 일을 시키는 법을 아는 것이 필수인데요. 컴퓨터에게 일을 시키는 방법은 바로 프로그래밍을 통해서 컴퓨터와 대화하는 것입니다. 컴퓨터와 대화를 하는 언어중에서도 가장 쉬운 언어는 단연코 `파이썬` 이라고 할 수 있습니다.
 
@@ -34,10 +30,10 @@ sidebar_position: 1
 
 ![python](./assets/image/intro/super_power.png)
 
-프로그래밍을 사용해서 세상의 숨겨진 기능. 개발자에게만 공개된
+프로그래밍을 사용해서 IT세상의 숨겨진 기능. **개발자에게만** 공개된
 기능들을 사용할 수 있는 능력을 얻게 됩니다. 함께 시작해봐요.
 
-## 지식공유자 소개
+## 👨🏻‍💻지식공유자 소개
 
 ![python](./assets/image/intro/profile.jpg)
 
@@ -53,7 +49,7 @@ sidebar_position: 1
 - 전) 트리노드 (포코팡 개발사)
 - 전) NHN JAPAN
 
-## 시작하기
+## 💡시작하기
 
 우선 파이썬을 설치해보세요.
 
@@ -61,15 +57,55 @@ sidebar_position: 1
 
 ![python](./assets/image/intro/intro1.png)
 
-설치과정은 인프런의 영상을 참고하셔도 좋습니다.
+설치과정은 아래 인프런의 영상을 참고해주세요~
 
 - [파이썬 설치하기 : 윈도우](https://www.inflearn.com/course/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EA%B7%B8%EB%83%A5-%EC%9E%AC%EB%AF%B8%EB%A1%9C/lecture/60771?tab=curriculum)
 
 - [파이썬 설치하기 : 맥](https://www.inflearn.com/course/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EA%B7%B8%EB%83%A5-%EC%9E%AC%EB%AF%B8%EB%A1%9C/lecture/60773?tab=curriculum)
 
-## 파이썬 실행해보기
+## 🐍 파이썬 실행해보기
 
 파이썬을 설치하셨으면 이제 파이썬을 실행해볼까요?
 파이썬을 실행하는 방법은 여러가지가 있습니다만, 파이썬 공식 홈페이지에서 파이썬을 설치하면 `IDLE` 이라는 프로그램이 같이 설치되게 됩니다.
 
 ![python](./assets/image/intro/idle.png)
+
+### idle을 사용해서 파이썬 테스트 하기
+
+`idle` 에서 아래와 같이 타이핑을 쳐보세요.
+
+아래 화면과 같이 나오면 정상입니다!
+
+```python
+print("hello~")
+
+1 + 2
+
+import sys
+sys.version
+```
+
+![python](./assets/image/intro/idle2.gif)
+
+### 파이참(pycharm) 설치
+
+어떤 작업을 할때 무슨 도구를 쓰는지는 매우 중요합니다. `장인은 도구를 가리지 않는다.` 라는 말이 있습니다만, 장인이 가지고 다니는 도구들은 보통 매우 잘 다듬어진 좋은 도구들이죠.
+
+파이썬을 잘 사용하기 위한 좋은 도구들이 많습니다만, 그중에서 저는 [pycharm](https://www.jetbrains.com/ko-kr/pycharm/download/) 을 추천 드리고 싶습니다.
+
+제가 아는한 가장 간단하게 파이썬 개발 환경을 설정해주는 툴입니다.
+
+[파이참 홈페이지](https://www.jetbrains.com/ko-kr/pycharm/download)에 가셔서 다운 받은후 설치해보세요.
+
+파이참을 설치하는 방법도 인프런에 올라와 있습니다. 참고해주세요.
+
+[파이참 설치하기 - 윈도우](https://www.inflearn.com/course/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EA%B7%B8%EB%83%A5-%EC%9E%AC%EB%AF%B8%EB%A1%9C/lecture/76288?tab=curriculum)
+
+[파이참 설치하기 - 맥](https://www.inflearn.com/course/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EA%B7%B8%EB%83%A5-%EC%9E%AC%EB%AF%B8%EB%A1%9C/lecture/62351?tab=curriculum)
+
+## ✅ 마무리
+
+위의 과정들을 잘 따라 하셨다면, 이제 `파이썬`과 `파이참`이 설치가 되어 있을 것입니다.
+이제 파이썬을 배울 준비가 다 되었습니다. 이제 부터 차근 차근 파이썬을 함께 알아가보도록 합시다.
+
+준비되셨으면 [섹션1-프로그래밍의 재료들|파이선의 내장 자료형](section1/python-data-type)으로 이동합시다.

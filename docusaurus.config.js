@@ -4,6 +4,7 @@ module.exports = {
   tagline: "세상에서 가장 친절한 파이썬 강의",
   url: "https://blog.gyus.me/justpython-doc/",
   baseUrl: "/justpython-doc/",
+  // baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
@@ -21,7 +22,7 @@ module.exports = {
           type: "doc",
           docId: "intro",
           position: "left",
-          label: "파이썬 기초",
+          label: "강의 자료",
         },
         // { to: "/blog", label: "Blog", position: "left" },
         {
@@ -74,7 +75,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Seungkyoo Park. Built with Docusaurus.`,
     },
   },
   presets: [
