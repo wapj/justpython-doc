@@ -4,6 +4,8 @@ sidebar_position: 1
 
 # 파이썬의 내장 자료형
 
+깃헙 액션 잘 적용되는지 한번 해본다.
+
 Add **Markdown or React** files to `src/pages` to create a **standalone page**:
 
 - `src/pages/index.js` -> `localhost:3000/`
