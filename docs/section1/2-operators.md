@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# 변수와 주석
+# 연산자
 
 Documents are **groups of pages** connected through:
 

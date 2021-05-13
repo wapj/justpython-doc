@@ -22,7 +22,7 @@ module.exports = {
           type: "doc",
           docId: "intro",
           position: "left",
-          label: "강의 자료",
+          label: "초급편",
         },
         // { to: "/blog", label: "Blog", position: "left" },
         {
