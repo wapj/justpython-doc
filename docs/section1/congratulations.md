@@ -2,7 +2,7 @@
 sidebar_position: 6
 ---
 
-# Congratulations!
+# 그외 연산자들 (비트연산, 항등연산, 멤버연산)
 
 You have just learned the **basics of Docusaurus** and made some changes to the **initial template**.
 
