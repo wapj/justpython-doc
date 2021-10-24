@@ -1,1 +1,0 @@
-(self.webpackChunkjustpython_doc=self.webpackChunkjustpython_doc||[]).push([[535],{2201:function(o){"use strict";o.exports=JSON.parse('{"allTagsPath":"/justpython-doc/blog/tags","slug":"hello","name":"hello","count":2,"permalink":"/justpython-doc/blog/tags/hello"}')}}]);
